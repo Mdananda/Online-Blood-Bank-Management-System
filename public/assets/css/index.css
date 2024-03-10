@@ -1,0 +1,110 @@
+.bkjiu{
+	margin: 5px;
+	margin-bottom: 20px;
+}
+
+.bkjiu img:hover{
+  border: 1px solid #777;
+}
+
+/* ----------------------------------our-story----------------------------------- */
+#about {
+    padding: 0px 0px;
+}
+
+#about .col-md-6 .story {
+    padding-top: 60px;
+    font-weight: 800;
+    padding-bottom: 15px;
+    font-family: 'Lalezar', cursive;
+}
+
+#about .col-md-6 .pera {
+
+    font-weight: 500;
+    padding-right: 48px;
+    color: grey;
+    text-align: justify;
+}
+
+
+
+
+.section-4 {
+    margin-top: 10%;
+}
+
+.section-4 .row .col-md-7,
+.col-md-5 {
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.section-4 a {
+    font-size: 40px;
+    text-decoration: none;
+    color: lightseagreen;
+}
+
+.section-4 .para-1 {
+    color: white;
+    margin-top: 7%;
+    font-family: 'Roboto Condensed';
+    font-size: 23px;
+}
+
+
+/* ----------------------------------our-story----------------------------------- */
+
+footer {
+    /*background-color: red;*/
+    color: whitesmoke;
+    padding-top: 30px;
+}
+
+#footer p {
+    text-align: justify;
+}
+
+#footer .social .fab {
+    font-size: 36px;
+    margin: 20px 12px;
+    color: white;
+    transition: 1s;
+}
+
+#footer .social .fab:hover {
+    color: rgb(179, 170, 170);
+    transition: 1s;
+}
+
+#footer h2 {
+    padding-bottom: 20px;
+    font-size: 30px;
+    font-weight: 800px;
+}
+
+p.para{
+	text-align: center;
+	font-size: 25px;
+	font-family: sans-serif;
+}
+
+h1.story {
+	  font-size: 35px;
+    padding-bottom: 60px;
+    font-weight: 800;
+    padding-bottom: 15px;
+    text-align: center;
+    font-family: 'Lalezar', cursive;
+}
+
+button.mybtn{
+	border: none;
+	border-radius: 10px;
+	background-color: gray;
+}
+
+button.mybtn: hover{
+	background-color: rgb(0,128,128) ;
+}
